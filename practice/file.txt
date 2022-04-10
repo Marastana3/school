@@ -1,0 +1,7 @@
+verde  = mov
+abc   =  hasdhas
+apple =  banana
+albastru     =  rosu
+rosu =     verde
+abc  =  something
+abc = yes
